@@ -1,0 +1,29 @@
+install new angular app: ng new [app_name]
+
+
+video 25
+
+
+-POSTMAN
+-C# for VS Code
+-C# Extensions
+-nugget package manager
+Angular
+ -Angular v6 snippets
+ -Angular files
+ -Angular language service
+Angular2
+ - Angular2-switcher
+-Auto Rename Tag
+-Bracket pair colorizer
+ -debbuger for chrome
+-material icon theme
+-path intellisense
+-prettier - code formmatter
+tslint
+Activate : ctrl+shft+p=>  Material icons: Activate icon theme
+
+
+EF
+fresh => dotnet ef migration add InitialCreate
+update and do the changes=>dotnet ef database update
